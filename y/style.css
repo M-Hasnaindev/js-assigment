@@ -1,0 +1,22 @@
+.stopwatch,
+.countdown-timer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+#stopwatch-display,
+#countdown-display {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-right: 10px;
+}
